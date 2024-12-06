@@ -1,6 +1,4 @@
-<p align="center">
- ![Profile Picture](IMG_4693.png)
-</p>
+![Profile Picture](IMG_4693.png)
 ## 👋 Hi, my name is Tina!
 🎓 Senior at the University of Central Florida, studying Computer Science
 
