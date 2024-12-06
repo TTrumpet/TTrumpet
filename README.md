@@ -2,6 +2,10 @@
 🎓 Senior at the University of Central Florida, studying Computer Science
 
 🔭 Aspiring AI Researcher
+
+📧 [tina.tran2@ucf.edu](tina.tran2@ucf.edu)  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/tinaungtran/)
 <!--
 **TTrumpet/TTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
