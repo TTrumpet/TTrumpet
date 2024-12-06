@@ -6,6 +6,8 @@
 📧 [tina.tran2@ucf.edu](tina.tran2@ucf.edu)  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tinaungtran/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TTrumpet.TTrumpet&left_color=green&right_color=red)
 <!--
 **TTrumpet/TTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
