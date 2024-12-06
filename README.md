@@ -1,5 +1,6 @@
 ## 👋 Hi, my name is Tina!
 🎓 Senior at the University of Central Florida, studying Computer Science
+
 🔭 Aspiring AI Researcher
 <!--
 **TTrumpet/TTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
