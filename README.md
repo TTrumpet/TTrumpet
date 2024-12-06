@@ -1,12 +1,22 @@
-![Profile Picture](IMG_4693.png)
+<p align="center">
+ ![Profile Picture](IMG_4693.png)
+</p>
 ## 👋 Hi, my name is Tina!
 🎓 Senior at the University of Central Florida, studying Computer Science
 
 🔭 Aspiring AI Researcher
 
+## 📫 Contact Me
+
 📧 tina.tran2@ucf.edu 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tinaungtran/)
+
+## 💬 About Me
+
+🌱 Lifelong learner and problem solver 👭 Identical Twin 📝 Research 👁️‍🗨️ Computer Vision 🖥️ Artificial Intelligence & Machine Learning
+
+## 🚀 Projects
 
 <!--
 **TTrumpet/TTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
