@@ -1,3 +1,4 @@
+![Profile Picture](IMG_4693.png)
 ## 👋 Hi, my name is Tina!
 🎓 Senior at the University of Central Florida, studying Computer Science
 
@@ -7,6 +8,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tinaungtran/)
 
+<!--
 **TTrumpet/TTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
