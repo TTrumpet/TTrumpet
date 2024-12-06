@@ -4,7 +4,7 @@
 
 🔭 Aspiring AI Researcher
 
-📧 [tina.tran2@ucf.edu](tina.tran2@ucf.edu)  
+📧 [tina.tran2@ucf.edu]  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tinaungtran/)
 
