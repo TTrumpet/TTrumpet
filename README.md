@@ -21,10 +21,11 @@
 
 👁️‍🗨️
 [cop-5415-computer-vision-project](https://github.com/TTrumpet/COP-5415-Project)
+(Note: Code pending)
 
 🎼
 [music-recommendation-using-joint-embedding-system](https://github.com/TTrumpet/HUT-joint-embedding)
-Note: Code pending
+(Note: Code pending)
 
 🖥️
 [cot-3100h-intro-to-discrete-math-final-project](https://github.com/TTrumpet/COT3100H-Final-Project)
