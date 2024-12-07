@@ -12,10 +12,22 @@
 
 ## 💬 About Me
 
-🌱 Lifelong learner and problem solver 👭 Identical Twin 📝 Research 👁️‍🗨️ Computer Vision 🖥️ Artificial Intelligence & Machine Learning
+🌱 Lifelong Learner and Problem Solver 👭 Identical Twin 📝 Research 👁️‍🗨️ Computer Vision 🖥️ Artificial Intelligence & Machine Learning
 
 ## 🚀 Projects
 
+🎯 Featured Project: 
+[birds-eye-view-latitude-ai](https://github.com/tamannachowdhuryy/latitude-ai-project)
+
+👁️‍🗨️
+[cop-5415-computer-vision-project](https://github.com/TTrumpet/COP-5415-Project)
+
+🎼
+[music-recommendation-using-joint-embedding-system](https://github.com/TTrumpet/HUT-joint-embedding)
+Note: Code pending
+
+🖥️
+[cot-3100h-intro-to-discrete-math-final-project](https://github.com/TTrumpet/COT3100H-Final-Project)
 <!--
 **TTrumpet/TTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
