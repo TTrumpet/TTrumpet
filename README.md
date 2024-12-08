@@ -45,11 +45,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 573.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 111 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -57,6 +61,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                166 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+🌆 Daytime                313 commits         ████████████░░░░░░░░░░░░░   49.29 % 
+🌃 Evening                146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Tuesday                  36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Wednesday                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Thursday                 157 commits         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Friday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Saturday                 102 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sunday                   122 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -74,5 +117,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TTrumpet/TTrumpet/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2024 18:43:59 UTC
+ Last Updated on 08/12/2024 18:43:35 UTC
 <!--END_SECTION:waka-->
