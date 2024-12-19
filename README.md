@@ -47,13 +47,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 573.3 kB Used in GitHub's Storage 
- > 
-> 🏆 111 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -117,5 +115,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TTrumpet/TTrumpet/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 18:45:48 UTC
+ Last Updated on 19/12/2024 18:43:18 UTC
 <!--END_SECTION:waka-->
