@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 > 📦 583.1 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -114,5 +116,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TTrumpet/TTrumpet/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2025 18:41:06 UTC
+ Last Updated on 13/01/2025 18:45:27 UTC
 <!--END_SECTION:waka-->
