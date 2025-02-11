@@ -24,7 +24,6 @@
 
 🎼
 [music-recommendation-using-joint-embedding-system](https://github.com/TTrumpet/HUT-joint-embedding)
-(Note: Code pending)
 
 🖥️
 [cot-3100h-intro-to-discrete-math-final-project](https://github.com/TTrumpet/COT3100H-Final-Project)
