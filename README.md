@@ -16,7 +16,12 @@
 
 ## 🚀 Projects
 
-🎯 Featured Project: 
+🎯 Featured Project: Coming soon!
+
+🧠
+[WiDS-Datathon-2025-competition-entry](https://github.com/AnushaAbdulla/LimbicTeam)
+
+🐦
 [birds-eye-view-latitude-ai](https://github.com/tamannachowdhuryy/latitude-ai-project)
 
 👁️‍🗨️
