@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 789.4 kB Used in GitHub's Storage 
+> 📦 789.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -118,5 +118,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TTrumpet/TTrumpet/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:45:34 UTC
+ Last Updated on 01/06/2025 18:45:57 UTC
 <!--END_SECTION:waka-->
