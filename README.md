@@ -1,8 +1,7 @@
 ![Profile Picture](IMG_4693_cropped.png)
 ## 👋 Hi, my name is Tina!
 🔭 Aspiring AI Researcher
-🎓 Currently I am a Master's student studying Computer Science 
-Received BS in Computer Science from the University of Central Florida
+🎓 Master's student studying Computer Science 
 
 ## 📫 Contact Me
 
@@ -12,7 +11,17 @@ Received BS in Computer Science from the University of Central Florida
 
 ## 💬 About Me
 
-🌱 Lifelong Learner and Problem Solver 👭 Identical Twin 📝 Research 👁️‍🗨️ Computer Vision 🖥️ Artificial Intelligence & Machine Learning
+🎓 Received BS in Computer Science from the University of Central Florida
+
+🌱 Lifelong Learner and Problem Solver 
+
+👭 Identical Twin 
+
+📝 Research 
+
+👁️‍🗨️ Computer Vision 
+
+🖥️ Artificial Intelligence & Machine Learning
 
 ## 🚀 Projects
 
