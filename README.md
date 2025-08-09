@@ -1,6 +1,7 @@
 ![Profile Picture](IMG_4693_cropped.png)
 ## 👋 Hi, my name is Tina!
 🔭 Aspiring AI Researcher
+
 🎓 Master's student studying Computer Science 
 
 ## 📫 Contact Me
