@@ -66,8 +66,6 @@ Here are some ideas to get you started:
 
 > 📦 891.7 kB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -130,5 +128,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TTrumpet/TTrumpet/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2025 18:43:50 UTC
+ Last Updated on 13/09/2025 18:41:07 UTC
 <!--END_SECTION:waka-->
