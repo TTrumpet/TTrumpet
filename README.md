@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -72,6 +74,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                264 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+🌆 Daytime                439 commits         ████████████░░░░░░░░░░░░░   47.46 % 
+🌃 Evening                212 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Thursday                 197 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Friday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Saturday                 151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Sunday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -89,5 +130,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TTrumpet/TTrumpet/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:43:10 UTC
+ Last Updated on 29/05/2026 20:43:05 UTC
 <!--END_SECTION:waka-->
