@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -114,11 +116,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
-Jupyter Notebook         12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   20 repos            ████████████░░░░░░░░░░░░░   46.51 % 
+Jupyter Notebook         12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
@@ -128,5 +130,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TTrumpet/TTrumpet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:27 UTC
+ Last Updated on 25/07/2026 19:42:30 UTC
 <!--END_SECTION:waka-->
